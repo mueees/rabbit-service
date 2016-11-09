@@ -1,10 +1,4 @@
 {
   "name": "rabbit",
-  "description": "Rabbit project",
-  "rss": {
-    "network": {
-      "host": "127.0.0.1",
-      "port": 20006
-    }
-  }
+  "description": "Rabbit project"
 }

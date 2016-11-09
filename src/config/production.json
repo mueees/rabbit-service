@@ -5,6 +5,6 @@
     "name": "rabbit-production"
   },
   "network": {
-    "port": 30007
+    "port": 20007
   }
 }

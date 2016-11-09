@@ -5,6 +5,6 @@
     "name": "rabbit-test"
   },
   "network": {
-    "port": 20007
+    "port": 30007
   }
 }
